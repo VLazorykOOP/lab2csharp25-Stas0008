@@ -1,0 +1,15 @@
+C:\Users\Stas\Desktop\Laboratory\CSharp\lab2csharp25-Stas0008\LR2\bin\Debug\net8.0\LR2.exe
+C:\Users\Stas\Desktop\Laboratory\CSharp\lab2csharp25-Stas0008\LR2\bin\Debug\net8.0\LR2.deps.json
+C:\Users\Stas\Desktop\Laboratory\CSharp\lab2csharp25-Stas0008\LR2\bin\Debug\net8.0\LR2.runtimeconfig.json
+C:\Users\Stas\Desktop\Laboratory\CSharp\lab2csharp25-Stas0008\LR2\bin\Debug\net8.0\LR2.dll
+C:\Users\Stas\Desktop\Laboratory\CSharp\lab2csharp25-Stas0008\LR2\bin\Debug\net8.0\LR2.pdb
+C:\Users\Stas\Desktop\Laboratory\CSharp\lab2csharp25-Stas0008\LR2\obj\Debug\net8.0\LR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stas\Desktop\Laboratory\CSharp\lab2csharp25-Stas0008\LR2\obj\Debug\net8.0\LR2.AssemblyInfoInputs.cache
+C:\Users\Stas\Desktop\Laboratory\CSharp\lab2csharp25-Stas0008\LR2\obj\Debug\net8.0\LR2.AssemblyInfo.cs
+C:\Users\Stas\Desktop\Laboratory\CSharp\lab2csharp25-Stas0008\LR2\obj\Debug\net8.0\LR2.csproj.CoreCompileInputs.cache
+C:\Users\Stas\Desktop\Laboratory\CSharp\lab2csharp25-Stas0008\LR2\obj\Debug\net8.0\LR2.sourcelink.json
+C:\Users\Stas\Desktop\Laboratory\CSharp\lab2csharp25-Stas0008\LR2\obj\Debug\net8.0\LR2.dll
+C:\Users\Stas\Desktop\Laboratory\CSharp\lab2csharp25-Stas0008\LR2\obj\Debug\net8.0\refint\LR2.dll
+C:\Users\Stas\Desktop\Laboratory\CSharp\lab2csharp25-Stas0008\LR2\obj\Debug\net8.0\LR2.pdb
+C:\Users\Stas\Desktop\Laboratory\CSharp\lab2csharp25-Stas0008\LR2\obj\Debug\net8.0\LR2.genruntimeconfig.cache
+C:\Users\Stas\Desktop\Laboratory\CSharp\lab2csharp25-Stas0008\LR2\obj\Debug\net8.0\ref\LR2.dll
